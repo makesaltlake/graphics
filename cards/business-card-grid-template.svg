@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.6600001in"
+   height="2.1600001in"
+   viewBox="0 0 329.40002 194.40002"
+   id="svg5690"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="business-card-grid-template.svg">
+  <defs
+     id="defs5692" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="33.571429"
+     inkscape:cy="196.75119"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1680"
+     inkscape:window-height="933"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6238"
+       spacingx="315.00002"
+       units="in"
+       spacingy="180.00001"
+       empspacing="1"
+       snapvisiblegridlinesonly="true"
+       originx="7.2000006"
+       originy="7.2000004" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid6240"
+       empspacing="1"
+       empcolor="#ff3f3f"
+       empopacity="0.25098039"
+       units="in"
+       originx="14.400001"
+       spacingx="300.60002"
+       spacingy="165.60001"
+       originy="14.400001" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5695">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-857.96223)" />
+</svg>
